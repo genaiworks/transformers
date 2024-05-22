@@ -129,6 +129,9 @@ Decoder
 
     Embedding from Ouput ---> Split into V, K, Q ---> Masked MultiHeaded Attention ---> Normalization ---> Transformer Block
 
+    Masked MultiHeaded Attention:
+    
+
 
 
 
